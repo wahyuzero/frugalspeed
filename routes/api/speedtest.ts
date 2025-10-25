@@ -14,7 +14,7 @@ export const handler = {
   GET: async (req: Request, _ctx: HandlerContext) => {
     const url = new URL(req.url);
     const sizeParam = url.searchParams.get("size");
-    const sizeKB = sizeParam ? parseInt(sizeParam) : 10000;
+    const sizeKB = sizeParam ? parseInt(sizeParam) : 20000;
 
     // Generate dummy data sesuai ukuran yang diminta
     // Ini akan digunakan untuk mengukur kecepatan download

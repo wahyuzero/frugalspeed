@@ -94,7 +94,7 @@ Edit `components/SpeedMeter.tsx` di fungsi `testDownload()` dan `testUpload()`.
 
 1. Install Deno Deploy CLI
 ```bash
-deno install -Arf https://deno.land/x/deploy/deployctl.ts
+deno install --global -Arf https://deno.land/x/deploy@1.13.1/deployctl.ts
 ```
 
 2. Deploy project
