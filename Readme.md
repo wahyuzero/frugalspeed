@@ -7,6 +7,10 @@ Web app speedtest dengan tema **futuristik neon** yang bisa mengukur kecepatan i
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+## 🚀 Preview
+
+[Live Demo](https://frugalspeed-swpv2r9fcbkn.deno.dev/)
+
 ## 🎯 Fitur Utama
 
 - ⚡ **Real-time Speed Test** - Ukur download, upload, dan ping secara akurat
