@@ -9,7 +9,7 @@ Web app speedtest dengan tema **futuristik neon** yang bisa mengukur kecepatan i
 
 ## 🚀 Preview
 
-[Live Demo](https://frugalspeed-swpv2r9fcbkn.deno.dev/)
+[Live Demo](https://frugalspeed.deno.dev/)
 
 ## 🎯 Fitur Utama
 
